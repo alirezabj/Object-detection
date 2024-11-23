@@ -97,7 +97,6 @@ Here are some examples of the model's performance:
 **Example 2: Real-time detection of gestures**  
 ![Real-Time Detection](images/realtime_detection.gif)
 
-For more detailed metrics and evaluation, check the TensorBoard graphs included in the repository.
 
 ---
 
