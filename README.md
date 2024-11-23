@@ -91,24 +91,12 @@ This project involves the development of an object detection model using TensorF
 ### **Visual Examples**
 Here are some examples of the model's performance:
 
-**Example 1: Detecting 'like' gesture**  
-![Like Gesture](images/like_example.jpg)
-
-**Example 2: Real-time detection of gestures**  
-![Real-Time Detection](images/realtime_detection.gif)
-
+<img width="821" alt="Screenshot 2024-11-23 at 13 24 26" src="https://github.com/user-attachments/assets/e61cdcaf-34c7-49d1-9705-23ed95178d09">
+<img width="818" alt="Screenshot 2024-11-23 at 13 24 18" src="https://github.com/user-attachments/assets/b75fd927-9a75-4c32-b69f-718111dc5eb9">
+<img width="831" alt="Screenshot 2024-11-23 at 13 24 01" src="https://github.com/user-attachments/assets/56ede57d-f02d-4e21-b736-ebdce9d12dce">
+<img width="832" alt="Screenshot 2024-11-23 at 13 23 52" src="https://github.com/user-attachments/assets/15032ead-31cb-42b9-a91c-ec2c3e802d2d">
 
 ---
 
-## **Key Files**
-- `image_capture.py`: Script for collecting images.
-- `generate_tfrecord.py`: Script for generating TensorFlow records.
-- `detect_realtime.py`: Script for running real-time detection.
-- `model_main_tf2.py`: Script for training the model.
-- `export_model.py`: Script for exporting the trained model.
-- `label_map.pbtxt`: File mapping label IDs to label names.
-- `pipeline.config`: Configuration file for the TensorFlow Object Detection model.
-
----
 
 
