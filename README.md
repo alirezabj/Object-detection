@@ -35,16 +35,17 @@ This project involves the development of an object detection model using TensorF
      ```python
      labels = ['like', 'dislike', 'hello', 'thank_you']
      ```
-     - Annotate the images using LabelImg:
-     ```bash
-     pip install pyqt5 lxml
-     git clone https://github.com/tzutalin/labelImg.git
-     cd labelImg
-     python labelImg.py
-     ```
+   - Annotate the images using LabelImg:
+   ```bash
+   pip install pyqt5 lxml
+   git clone https://github.com/tzutalin/labelImg.git
+   cd labelImg
+   python labelImg.py
+   ```
 ---
 
-3. **Training**  
+3. **Training**
+4. 
    - Train the model using Training the model.ipynb
 
 ---
