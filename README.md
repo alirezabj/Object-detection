@@ -45,7 +45,7 @@ This project involves the development of an object detection model using TensorF
 ---
 
 3. **Training**
-4. 
+ 
    - Train the model using Training the model.ipynb
 
 ---
