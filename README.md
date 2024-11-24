@@ -4,7 +4,7 @@ Object detection model to detect sign language gestures.
 ---
 
 ## **Description**
-This project involves the development of an object detection model using TensorFlow to recognize four specific sign language gestures: **"like," "dislike," "hello," and "thank you."** The model leverages deep learning to address the challenges of sign language recognition, such as the dynamic nature of hand gestures, and provides real-time detection capabilities.
+This project involves the development of an object detection model using TensorFlow to recognize four specific sign language gestures: **"like," "dislike," "hello," and "thank you."** 
 
 ---
 
